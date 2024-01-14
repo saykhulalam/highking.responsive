@@ -1,0 +1,383 @@
+@media(min-width:320px) and (max-width:575px){
+    #banner .text-areya h1 {
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 58px;
+        width: auto;
+    }
+    #banner .text-areya p {
+        font-size: 19px;
+        width: auto;
+        margin-bottom: 45px;
+    }
+    #safe .safe-img{
+        width: 100%;
+    }
+    #enjoy .injoy-img{
+        width: 100%;
+    }
+    #lets img {
+        width: 100%;
+    }
+    #banner img {
+        margin-top: 45px;
+        margin-left: 0;
+        width: 100%;
+    }
+    #card .box p {
+        width: auto;
+    }
+    #happy .box {
+        width: auto;
+        height: 487px;
+    }
+    #happy .main .box p {
+        font-size: 15px;
+        width: auto;
+        margin-bottom: 37px;
+    }
+    #Subscribe .taitel {
+        margin-left: 0;
+    }
+    #Subscribe .taitel h1 {
+        font-size: 36px;
+        line-height: 49px;
+        width: auto;
+    }
+    #Subscribe .taitel p {
+        font-size: 17px;
+        width: auto;
+    }
+    #Subscribe .btn-box input {
+        width: 100%;
+    }
+    #Subscribe .btn-box i {
+        font-size: 26px;
+        color: #3E82FC;
+        position: absolute;
+        left: 20px !important;
+        top: 16px !important;
+    }
+    #Subscribe .btn-box a {
+        margin-top: 20px;
+        width: 140px;
+        height: 54px;
+    }
+    #enjoy .text-areya h1 {
+        font-size: 58px;
+        line-height: 73px;
+        width: 100%;
+    }
+    #enjoy .text-areya p {
+        width: auto;
+    }
+    #safe .text-areya h1 {
+        font-size: 53px;
+        width: 100%;
+        line-height: 59px;
+        margin-top: 20px;
+    }
+    #lets .text-areya h1 {
+        font-size: 66px;
+        margin-top: 36px;
+        line-height: 71px;
+        width: auto;
+    }
+    #lets .text-areya p {
+        font-size: 22px;
+        width: auto;
+    }
+    #card {
+        padding: 0;
+    }
+    #card .box{
+        margin-top: 41px;
+    }
+    #grup-logo .mg{
+        margin-top: 30px;
+    }
+    #banner {
+        padding-bottom: 96px;
+    }
+    #safe {
+        padding: 80px 0;
+    }
+    #happy {
+        padding-top: 26px;
+    }
+    #happy .main .box h1 {
+        margin-bottom: 15px;
+    }
+    #happy .box .img-coma {
+        width: 82px;
+        height: 60px;
+        left: 3px;
+    }
+    #happy {
+        padding-bottom: 129px;
+    }
+    #Subscribe {
+        padding-bottom: 4px;
+    }
+    #footer .list-box{
+        margin-top: 50px;
+    }
+    #footer h4 {
+        font-size: 14px;
+        margin-top: 73px;
+    }
+}
+@media(min-width:576px) and (max-width:768px){
+    #banner .text-areya h1 {
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 58px;
+        width: auto;
+    }
+    #banner .text-areya p {
+        font-size: 19px;
+        width: auto;
+        margin-bottom: 45px;
+    }
+    #banner img {
+        margin-top: 45px;
+        margin-left: 0;
+    }
+    #card .box p {
+        width: 245px;
+    }
+    #happy .box {
+        width: auto;
+        height: 487px;
+    }
+    #happy .main .box p {
+        font-size: 15px;
+        width: auto;
+        margin-bottom: 37px;
+    }
+    #Subscribe .taitel {
+        margin-left: 0;
+    }
+    #Subscribe .taitel h1 {
+        font-size: 36px;
+        line-height: 49px;
+        width: auto;
+    }
+    #Subscribe .taitel p {
+        font-size: 17px;
+        width: auto;
+    }
+    #Subscribe .btn-box input {
+        width: 100%;
+    }
+    #Subscribe .btn-box i {
+        font-size: 26px;
+        color: #3E82FC;
+        position: absolute;
+        left: 109px !important;
+        top: 16px !important;
+    }
+    #Subscribe .btn-box a {
+        margin-top: 20px;
+        width: 140px;
+        height: 54px;
+    }
+    #enjoy .text-areya h1 {
+        font-size: 58px;
+        line-height: 73px;
+        width: 100%;
+    }
+    #enjoy .text-areya p {
+        width: 530px;
+    }
+    #safe .text-areya h1 {
+        font-size: 53px;
+        width: 100%;
+        line-height: 59px;
+        margin-top: 20px;
+    }
+    #lets .text-areya h1 {
+        font-size: 66px;
+        margin-top: 36px;
+        line-height: 71px;
+        width: auto;
+    }
+    #lets .text-areya p {
+        font-size: 22px;
+        width: 530px;
+    }
+    #card {
+        padding: 0;
+    }
+    #card .box {
+        margin-top: 41px;
+        width: 375px;
+    }
+    #grup-logo .mg {
+        margin-top: 30px;
+        margin-left: 88px;
+    }
+    #banner {
+        padding-bottom: 96px;
+    }
+    #safe {
+        padding: 80px 0;
+    }
+    #happy {
+        padding-top: 26px;
+    }
+    #happy .main .box h1 {
+        margin-bottom: 15px;
+    }
+    #happy .box .img-coma {
+        width: 82px;
+        height: 60px;
+        left: 3px;
+    }
+    #happy {
+        padding-bottom: 129px;
+    }
+    #Subscribe {
+        padding-bottom: 4px;
+    }
+    #footer .list-box{
+        margin-top: 50px;
+    }
+    #footer h4 {
+        font-size: 14px;
+        margin-top: 73px;
+    }
+    #safe .text-areya p {
+        width: 530px;
+    }
+    #footer .logo-txt p {
+        width: 500px;
+    }
+}
+@media(min-width:576px) and (max-width:768px){
+    #banner .text-areya h1 {
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 58px;
+        width: auto;
+    }
+    #banner .text-areya p {
+        font-size: 19px;
+        width: auto;
+        margin-bottom: 45px;
+    }
+    #banner img {
+        margin-top: 45px;
+        margin-left: 0;
+    }
+    #card .box p {
+        width: 245px;
+    }
+    #happy .box {
+        width: auto;
+        height: 487px;
+    }
+    #happy .main .box p {
+        font-size: 15px;
+        width: auto;
+        margin-bottom: 37px;
+    }
+    #Subscribe .taitel {
+        margin-left: 0;
+    }
+    #Subscribe .taitel h1 {
+        font-size: 36px;
+        line-height: 49px;
+        width: auto;
+    }
+    #Subscribe .taitel p {
+        font-size: 17px;
+        width: auto;
+    }
+    #Subscribe .btn-box input {
+        width: 100%;
+    }
+    #Subscribe .btn-box i {
+        font-size: 26px;
+        color: #3E82FC;
+        position: absolute;
+        left: 109px !important;
+        top: 16px !important;
+    }
+    #Subscribe .btn-box a {
+        margin-top: 20px;
+        width: 140px;
+        height: 54px;
+    }
+    #enjoy .text-areya h1 {
+        font-size: 58px;
+        line-height: 73px;
+        width: 100%;
+    }
+    #enjoy .text-areya p {
+        width: 530px;
+    }
+    #safe .text-areya h1 {
+        font-size: 53px;
+        width: 100%;
+        line-height: 59px;
+        margin-top: 20px;
+    }
+    #lets .text-areya h1 {
+        font-size: 66px;
+        margin-top: 36px;
+        line-height: 71px;
+        width: auto;
+    }
+    #lets .text-areya p {
+        font-size: 22px;
+        width: 530px;
+    }
+    #card {
+        padding: 0;
+    }
+    #card .box {
+        margin-top: 41px;
+        width: 375px;
+    }
+    #grup-logo .mg {
+        margin-top: 30px;
+        margin-left: 88px;
+    }
+    #banner {
+        padding-bottom: 96px;
+    }
+    #safe {
+        padding: 80px 0;
+    }
+    #happy {
+        padding-top: 26px;
+    }
+    #happy .main .box h1 {
+        margin-bottom: 15px;
+    }
+    #happy .box .img-coma {
+        width: 82px;
+        height: 60px;
+        left: 3px;
+    }
+    #happy {
+        padding-bottom: 129px;
+    }
+    #Subscribe {
+        padding-bottom: 4px;
+    }
+    #footer .list-box{
+        margin-top: 50px;
+    }
+    #footer h4 {
+        font-size: 14px;
+        margin-top: 73px;
+    }
+    #safe .text-areya p {
+        width: 530px;
+    }
+    #footer .logo-txt p {
+        width: 500px;
+    }
+}

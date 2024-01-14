@@ -1,0 +1,476 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    max-width: 1140px;
+}
+/* =================nav start===================== */
+nav .nav-item a{
+    font-size: 18px;
+    line-height: 32.4px;
+    font-weight: 500;
+    color: #05060A;
+    margin-left: 66px;
+}
+nav{
+    position: absolute !important;
+    width: 100%;
+}
+
+/* =================nav end===================== */
+/* ================banner start================ */
+#banner{
+    background-image: url("../images/hero.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 226px;
+    padding-bottom: 222px;
+}
+#banner .text-areya h1{
+    font-size: 72px;
+    font-weight: 600;
+    color: #05060A;
+    line-height: 92px;
+    letter-spacing: 0.72px;
+    width: 640px;
+    margin-bottom: 10px;
+}
+#banner .text-areya p{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    color: #5D616F;
+    width: 459px;
+    margin-bottom: 52px;
+}
+#banner .text-areya .button-areya{
+    display: flex;
+    gap: 28px;
+}
+#banner .text-areya .button-areya a{
+    width: 181px;
+    height: 62px;
+    border-radius: 40px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #3E82FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    transition: .4s;
+}
+#banner .text-areya .button-areya a:hover{
+    background-color: transparent;
+    border: 1px solid #3E82FC;
+    color: #3E82FC;
+}
+#banner img{
+    width: 488px;
+    margin-left: 56px;
+}
+/* ================banner end================ */
+/* ====================card section start================== */
+#card{
+    padding: 66px 66px;
+    background-color: #FBFEFF;
+}
+#card .box h1{
+    font-size: 24px;
+    font-weight: 600;
+    color: #05060A;
+    margin-bottom: 12px;
+}
+#card .box p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #5D616F;
+    margin-bottom: 4px;
+    width: 268px;
+}
+#card .box a{
+    font-size: 18px;
+    color: #FE2C54;
+    font-weight: 400;
+    width: 97px;
+    text-decoration: none;
+    display: inline-block;
+}
+#card .box img{
+    width: 76px;
+    height: 76px;
+    margin-bottom: 28px;
+}
+#card h5{
+    font-size: 18px;
+    font-weight: 400;
+    color: #5D616f;
+    line-height: 28px;
+    margin-top: 76px;
+    text-align: center;
+}
+#card span{
+    font-size: 18px;
+    font-weight: 600;
+    color: #FE2C54;
+    line-height: 28px;
+}
+/* ====================card section end================== */
+/* ============safe section start============== */
+#safe .text-areya h1{
+    font-size: 62px;
+    width: 397px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: 0.62px;
+    color: #05060A;
+    margin-bottom: 12px;
+}
+#safe .text-areya p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #5D616F;
+    margin-bottom: 32px;
+}
+#safe .text-areya a{
+    width: 181px;
+    height: 62px;
+    border-radius: 40px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #3E82FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    transition: .4s;
+}
+#safe .text-areya a:hover{
+    background-color: transparent;
+    border: 1px solid #3E82FC;
+    color: #3E82FC;
+}
+#safe{
+    background-image: url("../images/texture\ background\ \(1\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 130px 0;
+}
+/* ============safe section end============== */
+/* <!-- =============grup logo start============== --> */
+#grup-logo .gap-box{
+    margin-top: 82px;
+}
+/* <!-- =============grup logo end============== --> */
+/* <!-- ========enjoy section start============== --> */
+#enjoy .text-areya h1{
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: 0.62px;
+    color: #05060A;
+    width: 508px;
+    margin-bottom: 12px;
+}
+#enjoy .text-areya p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #5D616F;
+    width: 374px;
+    margin-bottom: 32px;
+}
+#enjoy .text-areya a{
+    width: 181px;
+    height: 62px;
+    border-radius: 40px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #3E82FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    transition: .4s;
+}
+#enjoy .text-areya a:hover{
+    background-color: transparent;
+    border: 1px solid #3E82FC;
+    color: #3E82FC;
+}
+#enjoy{
+    background-image: url("../images/texture\ background\ \(2\).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 130px 0;
+}
+#enjoy img{
+    width: 487px;
+}
+/* <!-- ========enjoy section end============== --> */
+/* <!-- ========lets section start========== --> */
+#lets .text-areya h1{
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: 0.62px;
+    color: #05060A;
+    width: 508px;
+    margin-bottom: 12px;
+}
+#lets .text-areya p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #5D616F;
+    width: 374px;
+    margin-bottom: 32px;
+}
+#lets .text-areya a{
+    width: 181px;
+    height: 62px;
+    border-radius: 40px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #3E82FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    transition: .4s;
+}
+#lets .text-areya a:hover{
+    background-color: transparent;
+    border: 1px solid #3E82FC;
+    color: #3E82FC;
+}
+#lets{
+    background-image: url("../images/texture\ background\ \(2\).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 130px 0;
+}
+#lets img{
+    width: 487px;
+}
+/* <!-- ========lets section end========== --> */
+/* ========happy section start============= */
+#happy .taitel h4{
+    color: #3E82FC;
+    font-size: 20px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+#happy .taitel h1{
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    color: #05060A;
+}
+#happy .taitel{
+    text-align: center;
+}
+#happy .main .box h1{
+    font-size: 24px;
+    font-weight: 600;
+    color: #05060A;
+    line-height: 26px;
+    margin-bottom: 4px;
+
+} 
+#happy .main .box h5{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #FE2C54;
+    margin-bottom: 20px;
+}
+#happy .main .box p{
+    font-size: 18px;
+    line-height: 26px;
+    color: #5D616F;
+    margin-bottom: 12px;
+    width: 612px;
+}
+#happy .main .box .icon i{
+    font-size: 26px;
+    color: #F4B600;
+}
+#happy .main .box .icon{
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+}
+#happy .box img{
+    width: 104px;
+    margin-bottom: 20px;
+    margin-top: 52px;
+}
+#happy .box{
+    text-align: center;
+    width: 726px;
+    height: 394px;
+    background-color: #FBFEFF;
+    border-radius: 140px 0px;
+    box-shadow: 0px 54px 104px 0px rgba(0, 0, 0, 0.04);
+    position: relative;
+    margin-top: 116px;
+}
+#happy{
+    background-color: #FBFEFF;
+    padding-top: 84px;
+    padding-bottom: 196px;
+}
+#happy .box .img-coma {
+    width: 110px;
+    height: 86px;
+    position: absolute;
+    left: 55px;
+    top: 3px;
+}
+/* ========happy section end============= */
+/* <!-- ===========Subscribe section start========== --> */
+#Subscribe{
+    background-color: #ECF3FF;
+    padding-top: 118px;
+    padding-bottom: 98px;
+}
+#Subscribe .taitel h1{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 59px;
+    color: #05060A;
+    letter-spacing: 0.4px;
+    width: 575px;
+    margin-bottom: 30px;
+}
+#Subscribe .taitel p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #5D616F;
+    width: 637px;
+    margin-bottom: 76px;
+}
+#Subscribe .btn-box a{
+    width: 181px;
+    height: 62px;
+    border-radius: 40px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #3E82FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    transition: .4s;
+}
+#Subscribe .btn-box a:hover{
+    background-color: transparent;
+    border: 1px solid #3E82FC;
+    color: #3E82FC;
+}
+#Subscribe .btn-box input{
+    width: 448px;
+    height: 58px;
+    border-radius: 50px;
+    border-color: #3E82FC;
+    background-color: #ECF3FF;
+}
+#Subscribe .btn-box input::placeholder{
+    font-size: 16px;
+    font-weight: 400;
+    color: #3E82FC;
+    padding-left: 60px;
+}
+#Subscribe .btn-box{
+    display: flex;
+    gap: 19px;
+    justify-content: center;
+}
+#Subscribe .btn-box{
+    position: relative;
+}
+#Subscribe .btn-box i {
+    font-size: 26px;
+    color: #3E82FC;
+    position: absolute;
+    left: 257px !important;
+    top: 16px !important;
+}
+#Subscribe .taitel{
+    margin-left: 232px;
+}
+/* <!-- ===========Subscribe section end========== --> */
+/* ==========footer section start========= */
+#footer{
+    padding-top: 139px;
+    background-color: #ECF3FF;
+    padding-bottom: 48px;
+}
+#footer .logo-txt p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #5D616F;
+    width: 341px;
+    margin-bottom: 48px;
+    margin-top: 16px;
+}
+#footer .logo-txt .icon-box i{
+    width: 49px;
+    height: 49px;
+    background-color: #3E82FC;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+    line-height: 49px;
+    text-align: center;
+    margin-right: 29px;
+}
+#footer .location h2{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #05060A;
+    margin-bottom: 30px;
+}
+#footer .location ul{
+    padding: 0px;
+}
+#footer .location ul li{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #5D616F;
+    list-style: none;
+    margin-bottom: 24px;
+}
+#footer h4{
+    font-size: 20px;
+    font-weight: 400;
+    color: #5D616F;
+    margin-top: 131px;
+    text-align: center;
+}
+/* ==========footer section end========= */
